@@ -1,0 +1,7 @@
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\bin\Debug\Events.exe.config
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\bin\Debug\Events.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\bin\Debug\Events.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\obj\Debug\Events.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Events\obj\Debug\Events.pdb

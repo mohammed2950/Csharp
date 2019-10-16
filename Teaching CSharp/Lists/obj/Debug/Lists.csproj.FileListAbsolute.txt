@@ -1,0 +1,7 @@
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\bin\Debug\Lists.exe.config
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\bin\Debug\Lists.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\bin\Debug\Lists.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\obj\Debug\Lists.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Lists\obj\Debug\Lists.pdb

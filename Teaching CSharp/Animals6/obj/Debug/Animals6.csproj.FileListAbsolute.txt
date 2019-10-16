@@ -1,0 +1,7 @@
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\bin\Debug\Animals6.exe.config
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\bin\Debug\Animals6.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\bin\Debug\Animals6.pdb
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\obj\Debug\Animals6.csprojAssemblyReference.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\obj\Debug\Animals6.csproj.CoreCompileInputs.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\obj\Debug\Animals6.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals6\obj\Debug\Animals6.pdb

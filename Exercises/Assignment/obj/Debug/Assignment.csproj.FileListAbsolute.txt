@@ -1,0 +1,5 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\Assignment\bin\Debug\Assignment.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Assignment\bin\Debug\Assignment.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\Assignment\obj\Debug\Assignment.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Assignment\obj\Debug\Assignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\bin\Debug\Animals5.exe.config
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\bin\Debug\Animals5.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\bin\Debug\Animals5.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\obj\Debug\Animals5.csprojAssemblyReference.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\obj\Debug\Animals5.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\obj\Debug\Animals5.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals5\obj\Debug\Animals5.pdb

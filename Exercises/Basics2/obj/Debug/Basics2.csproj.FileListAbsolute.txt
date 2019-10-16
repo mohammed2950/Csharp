@@ -1,0 +1,6 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\bin\Debug\Basics2.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\bin\Debug\Basics2.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\bin\Debug\Basics2.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\obj\Debug\Basics2.csprojAssemblyReference.cache
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\obj\Debug\Basics2.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics2\obj\Debug\Basics2.pdb

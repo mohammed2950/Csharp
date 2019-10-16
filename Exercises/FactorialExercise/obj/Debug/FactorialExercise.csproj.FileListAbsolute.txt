@@ -1,0 +1,6 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\bin\Debug\FactorialExercise.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\bin\Debug\FactorialExercise.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\bin\Debug\FactorialExercise.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\obj\Debug\FactorialExercise.csprojAssemblyReference.cache
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\obj\Debug\FactorialExercise.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\FactorialExercise\obj\Debug\FactorialExercise.pdb

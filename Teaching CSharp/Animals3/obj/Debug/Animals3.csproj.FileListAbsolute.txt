@@ -1,0 +1,7 @@
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\bin\Debug\Animals3.exe.config
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\bin\Debug\Animals3.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\bin\Debug\Animals3.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\obj\Debug\Animals3.csprojAssemblyReference.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\obj\Debug\Animals3.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\obj\Debug\Animals3.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Animals3\obj\Debug\Animals3.pdb

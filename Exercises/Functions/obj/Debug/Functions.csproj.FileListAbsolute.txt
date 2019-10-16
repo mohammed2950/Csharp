@@ -1,0 +1,6 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\bin\Debug\Functions.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\bin\Debug\Functions.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\bin\Debug\Functions.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\obj\Debug\Functions.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Functions\obj\Debug\Functions.pdb

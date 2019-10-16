@@ -1,0 +1,6 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\bin\Debug\ListofArray.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\bin\Debug\ListofArray.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\bin\Debug\ListofArray.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\obj\Debug\ListofArray.csprojAssemblyReference.cache
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\obj\Debug\ListofArray.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\ListofArray\obj\Debug\ListofArray.pdb

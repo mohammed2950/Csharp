@@ -1,0 +1,7 @@
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\bin\Debug\People2.exe.config
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\bin\Debug\People2.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\bin\Debug\People2.pdb
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\obj\Debug\People2.csprojAssemblyReference.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\obj\Debug\People2.csproj.CoreCompileInputs.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\obj\Debug\People2.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\People2\obj\Debug\People2.pdb

@@ -1,0 +1,6 @@
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\bin\Debug\Basics1.exe.config
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\bin\Debug\Basics1.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\bin\Debug\Basics1.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\obj\Debug\Basics1.exe
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\obj\Debug\Basics1.pdb
+C:\Users\amohamme\Desktop\C#Project\Exercises\Basics1\obj\Debug\Basics1.csprojAssemblyReference.cache

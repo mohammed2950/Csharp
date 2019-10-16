@@ -1,0 +1,20 @@
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.exe
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Braden\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\bin\Debug\Debugging.pdb
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.exe
+C:\Users\bchevali\Google Drive\ISI\teaching\C#\Teaching CSharp\Debugging\obj\Debug\Debugging.pdb
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\bin\Debug\Debugging.exe
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\bin\Debug\Debugging.pdb
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\obj\Debug\Debugging.exe
+C:\Users\amohamme\Desktop\C#Project\Teaching CSharp\Debugging\obj\Debug\Debugging.pdb
